@@ -1,0 +1,1327 @@
+"Long-term capital gain was being debated for years... We believe that no tax should have retrospective effect that's why we grandfathered all investment till 31 Jan 2018"- Finance Minister Arun Jaitley
+
+
+
+
+
+----------------------------------------------------------
+RT @Fact: When something bad happens you have three choices. You can either let it define you, let it destroy you, or you can let it streng… Fri Mar 02 19:11:09 , 2018
+
+
+
+----------------------------------------------------------
+both cars are equally capable, the Jeep Compass a bit more than the XUV500. However, I would wait for the facelift... Read more
+
+The launch date has not been shared yet by the company. But we expect it to come in the first half of the year. stay... Read more
+
+The Hero Electric Cruz or the Optima Plus are good options but i would suggest you wait for TVS to bring out its... Read more
+
+Considering your requirements, your best bet would be the Royal Enfield. Both the KTM and the Benelli will have... Read more
+
+ABS certainly offers a far safer braking experience, particularly when you have to brake hard in case of an... Read more
+
+They have both advantages and disadvantages. From a practical point of view, the Dominar 400 is the better all-round... Read more
+
+Hope you watched CNB Bazaar Buzz last week! We took your question on the show! If not watch it on this site - under... Read more
+
+Hi Sid I have been watching CNB since close to 10 yrs now !i would like to buy the naked sports bike ,confused...
+
+Well there are not too many options but a practical choice would be the Dominar - as it delivers decent performance,... Read more
+
+Hi, I am planning to buy a Bike under 400cc witch one is good. Please suggest me a bike
+
+This IS the on road price we have on the oage: https://auto.ndtv.com/hero-bikes/splendor-plus SVP Read more
+
+CarAndBike is not merely another name in the world of automotive web sites. We bring together the best from the world of both, cars and bikes. New cars, used cars, new bikes, - we endeavour to help you with all of that. Additionally, CarAndBike also strives to keep its users updated with the latest from the global automotive industry. Car price, car reviews, car dealers, new bikes, and everything in between, CarAndBike is happy to help! More
+
+
+
+----------------------------------------------------------
+PNR
+
+Ever wondered how the 10-digit PNR number is generated? Or what do the digits indicate? The Indian Railways passenger name record, also known as PNR, is a number that gives a variety of travel information to ticket-holders. The PNR status includes information such as the booking status - whether the ticket has been confirmed, it is on waiting list (WL) or it is under reservation against cancellation (RAC) - apart from giving basic information on arrival and departure time of trains. The PNR status has details of the coach and seat number and the fare paid by the passenger, among other details. NDTV Rail Beeps search will help you find out the accurate PNR status of your train journey with the Indian Railways.
+
+How To Check PNR Status?
+
+Checking your PNR status is easy. All you need to do is to enter your PNR number on the search bar above. It will then show you the PNR status of your ticket. Although you will see the PNR number on the top-left corner of the train ticket, the PNR number on the e-ticket appears in a different place - it will be printed on the top half of the page.
+
+How PNR Works?
+
+The Centre of Railway Information Systems or CRIS runs a database where all information about passengers are fed and stored. The system creates a 10-digit PNR status number every time a person buys an Indian Railways ticket on the IRCTC website, private travel websites or at ticket counters. IRCTC refers to Indian Railway Catering and Tourism Corporation.
+
+In terms of group bookings, a single PNR number can include a maximum of six passengers.
+
+What does PNR number include:
+
+Passenger Details (Name, Age, Sex, Birth Preference)
+
+Ticket Details (Train No, Date, From, To, Boarding Station, Reservation Upto, Class, Berth, Quota)
+
+Transaction / Payment Details (Transaction ID, Payment Mode, Ticket Charge)
+
+The first 3 digits of the PNR tell us from which Passenger Reservation System or PRS the ticket has been booked.
+
+The PNR numbers' starting digit depends on Zone of the Train, w.r.t. starting station of the train.
+
+Number Code Zone
+
+1 SCR Secunderabad PRS
+
+2, 3 NR, NCR, NWR, NER New Delhi PRS
+
+4, 5 SR, SWR, SCR Chennai PRS
+
+6, 7 NFR, ECR, ER, ECoR, SER, SECR Calcutta PRS
+
+8, 9 CR, WCR, WR Mumbai PRS
+
+The last seven digits are randomly generated numbers using the Rand() function. These numbers represent no information about the ticket or journey as such. They only provide an unique identity to the PNR number.
+
+You can check PNR Status number at https://www.ndtv.com/indian-railway
+
+All you need to do is enter the PNR below to get the current status. You will find it on the top left corner of the ticket.) PNR status can also be checked at every major stations, where PNR stats checking counters are available.
+
+PNR number on ticket
+
+PNR number is usually printed at the top left corner of the tickets that are available at the railway station booking window. In case of the E - Ticket, the PNR number is mentioned at top in a separate cell.
+
+Importance of PNR status
+
+It is quite common to find your train ticket on waiting list while booking tickets on Indian Railways. To check whether your ticket is confirmed, you need to check your current PNR status. You can easily do this online at https://www.ndtv.com/indian-railway/.
+
+How to enquire PNR status
+
+Steps - open railbeeps.com >> Enter your PNR number >> Search
+
+You will get PNR status in 3 easy steps.
+
+Other ways to enquire PNR status are:
+
+1. Current reservation status check using SMS
+
+2. Mobile applications
+
+3. Railway enquiry counters at railway station
+
+4. Final reservation charts
+
+5. Other websites
+
+PNR status and railway reservations explained step by step :
+
+Waiting List and RAC
+
+Once all available seats on a train are sold, the Indian railway releases RACs for railway reservations. When all of the RAC seats are sold, Waiting List tickets are released. The status of the tickets might vary based on a variety of reasons. Ticket cancellations by other passengers can increase your chances if you have an RAC or Waiting List ticket. RAC/WL ticket holders are also likely to get available seats in different quotas if they remain unused.
+
+Tickets are sold by the Indian Railways in the following order:
+
+Available 02
+
+Available 01
+
+RAC 01
+
+RAC 02
+
+RAC 03
+
+RAC 04
+
+WL 01
+
+WL 02
+
+Understanding your ticket status
+
+There are two numbers mentioned on your ticket. The numbers detail the position at which you joined the waitlist and the current position of your ticket- in this order. Here is an example:
+
+When you book a train ticket online, you find the train number and class – AC, second class, third class etc mentioned on the e-ticket along with the seat/berth that you want along with the date and time. Let’s consider that you buy a ticket with WL5/WL2.
+
+This means that you joined the WL at position 5, but by the time you paid for the ticket and actually bought the ticket online you moved to position 2. The position may have varied from WL5 to WL2 either due to a cancellation or due to someone not making a final booking. While
+
+the first number (WL5 in this case) will stay the same, the second number will decrease until you get a ticket (hopefully).
+
+This is how the status of your reservation status could look like – in that order:
+
+WL 5/WL 2
+
+WL 5/WL 1
+
+WL 5/RAC 3
+
+WL 5/RAC 2
+
+WL 5/RAC 1
+
+WL 5/CNF
+
+PNR status and seat availability
+
+The following breakout explains how a ticket status plays a pivotal role in train journeys
+
+RAC - In RAC (Reservation Against Cancellation), the passenger is allowed to travel and two passengers share the same berth. If a confirmed passenger does not board the train, a full berth is allotted to the passenger with RAC ticket.
+
+CNF - The passenger seat has been confirmed and the seat will be allotted after charting
+
+CAN - The passenger seat has been cancelled
+
+WL - The passenger with Waitlist ticket is in the waiting list and is not allowed to board the train. A waitlist ticket can be cancelled by the passenger 30 minutes before the departure of the train. If a WL ticket does not get confirmed, it gets cancelled automatically.
+
+GNWL - A General Waitlist ticket which gets confirmed after the passengers cancel their confirmed bookings.
+
+TQWL - TQWL stands for Tatkal Waitlist. When a passenger does a tatkal booking and is put on the wait list, the status is shown as TQWL. This ticket is least likely to get confirmed.
+
+PQWL - Under Pooled Quota Waitlist, passengers traveling between intermediate stations and have a separate waitlist from the general waitlist.
+
+RLWL - A Remote Location Waitlist has the high chances of confirmation. Smaller stations have separate quota of seats and waiting seats on these intermediate stations are given RLWL status.
+
+RSWL - A station specific waitlist is called a Road-Side Waitlist.
+
+NR - NR means ‘No Room’ and no further bookings are allowed with a NR ticket
+
+NOSB - NOSB is acronym for No Seat Berth. Children below 12 years of age pay child fare and are not allotted seats. Their PNR status shows NOSB – No Seat Berth.
+
+REL - REL stands for Released
+
+WEBCAN - It’s a Railway Counter Ticket. When a passenger has been cancelled over internet and the refund has not been collected.
+
+WEBCANRF - It’s a Railway Counter Ticket. When a passenger has been cancelled over internet and the refund has been collected.
+
+WL and RAC refunds
+
+If your train is ready for departure and its reservation chart is finalized, the cost of your WL ticket will be automatically refunded to your bank account.
+
+Till when are PNR numbers valid?
+
+Normally, the digits of Passanger name record or PNR become meaningless after the completion of the journey. The PNR details may not be available to the public once the journey gets completed for privacy and security concerns of passengers.
+
+However, PNR number lasts minimum 9 month. This is because the TDR filed can take maximum of 9 months. Its is then removed from the database.
+
+Railway Enquiries through Web:
+
+Ticket Booking – www.irctc.co.in – Official Partner of Indian Railway for Online ticket booking.
+
+Railway Enquiry – www.indianrail.gov.in – Official Indian Railway portal
+
+PNR Status – www.ndtv.com/indian-railway/pnr-status
+
+Live Train Status - www.ndtv.com/indian-railway/live-train-status
+
+Railway Enquiries through SMS/Phone:
+
+SMS Service – How to check PNR status through SMS
+
+SMS PNR send to 139
+
+Railway Enquiry Number
+
+Call 139
+
+Mobile App:
+
+NDTV's Rail Beeps mobile app is your single stop for all information on trains. To Download click here
+
+
+
+----------------------------------------------------------
+FIND THE PERFECT LOOK
+
+Get Lost In Thousands Of Photos Of Decor, Outfits, Jewellery And More To Inspire You For Your Big Day
+
+
+
+----------------------------------------------------------
+Tweet with a location
+
+You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your Tweet location history. Learn more
+
+
+
+----------------------------------------------------------
+Person of Interest | Sri Sri Ravi Shankar, the negotiator Our Facebook Person of Interest Sri Sri Ravi Shankar has a large following due to Art of Living. But why is he now playing mediator in the Ram Temple-Babri Masjid dispute? Also, find out what he thinks should be done to crack down on fake gurus. Coming soon on facebook.com/ndtv.
+
+10 36
+
+
+
+----------------------------------------------------------
+
+
+
+
+----------------------------------------------------------
+RT @Fact: When something bad happens you have three choices. You can either let it define you, let it destroy you, or you can let it streng… Fri Mar 02 19:11:09 , 2018
+
+
+
+----------------------------------------------------------
+Search for over 16 crore products across
+
+
+
+----------------------------------------------------------
+RT @Fact: When something bad happens you have three choices. You can either let it define you, let it destroy you, or you can let it streng… Fri Mar 02 19:11:09 , 2018
+
+
+
+----------------------------------------------------------
+both cars are equally capable, the Jeep Compass a bit more than the XUV500. However, I would wait for the facelift... Read more
+
+The launch date has not been shared yet by the company. But we expect it to come in the first half of the year. stay... Read more
+
+The Hero Electric Cruz or the Optima Plus are good options but i would suggest you wait for TVS to bring out its... Read more
+
+Considering your requirements, your best bet would be the Royal Enfield. Both the KTM and the Benelli will have... Read more
+
+ABS certainly offers a far safer braking experience, particularly when you have to brake hard in case of an... Read more
+
+They have both advantages and disadvantages. From a practical point of view, the Dominar 400 is the better all-round... Read more
+
+Hope you watched CNB Bazaar Buzz last week! We took your question on the show! If not watch it on this site - under... Read more
+
+Hi Sid I have been watching CNB since close to 10 yrs now !i would like to buy the naked sports bike ,confused...
+
+Well there are not too many options but a practical choice would be the Dominar - as it delivers decent performance,... Read more
+
+Hi, I am planning to buy a Bike under 400cc witch one is good. Please suggest me a bike
+
+This IS the on road price we have on the oage: https://auto.ndtv.com/hero-bikes/splendor-plus SVP Read more
+
+CarAndBike is not merely another name in the world of automotive web sites. We bring together the best from the world of both, cars and bikes. New cars, used cars, new bikes, - we endeavour to help you with all of that. Additionally, CarAndBike also strives to keep its users updated with the latest from the global automotive industry. Car price, car reviews, car dealers, new bikes, and everything in between, CarAndBike is happy to help! More
+
+
+
+----------------------------------------------------------
+"Long-term capital gain was being debated for years... We believe that no tax should have retrospective effect that's why we grandfathered all investment till 31 Jan 2018"- Finance Minister Arun Jaitley
+
+
+
+
+
+----------------------------------------------------------
+Varun Dhawan's Sunday Cheat Meal Was Made By His Body Guard!
+
+Varun Dhawan is quite a foodie and his lean body is the result of his strict diet regime which includes low calorie, high protein meals. Varun has a good metabolism and eats every two hours to keep his energy levels up.
+
+
+
+----------------------------------------------------------
+Can't get enough of this song. #Karuppi from #PariyerumPerumal https://t.co/We37evtZV4 Full power from… https://t.co/7ffZ67Y3c7 Tue Mar 06 10:57:16 , 2018
+
+
+
+----------------------------------------------------------
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+----------------------------------------------------------
+
+
+
+
+----------------------------------------------------------
+Bollywood actress Sunny Leone and husband Daniel Weber have now become parents of two baby boys. Sunny posted a happy family picture on her Instagram handle. Scroll down to see.
+
+With the concept of surrogacy smoothly penetrating into the Indian culture and making many married couples happy, another household got completed. For those of you who don’t know, Sunny Leone and husband Daniel Weber are now proud parents of not just their daughter Nisha Kaur Weber, but also two other adorable munchkins – Asher Singh Weber and Noah Singh Weber. The couple was blessed with the twins, conceived through the process of surrogacy.
+
+A lovable family picture of all the ‘Webers’ was posted this morning by Sunny. Not only the couple but Nisha Kaur Weber, who the couple adopted last year in July 2017, looked ecstatic posing with the twins.
+
+The couple divulged that they found out on June 21, 2017 that they might be having twins in a short span of time. Sunny Leone took to Instagram this morning to assert that the twins are biologically theirs. Here is the post by the actor –
+
+Sunny Leone, after being a huge sensation in the adult film industry of Canada, debuted in Bollywood with Mahesh Bhatt’s Jism 2, directed by Pooja Bhatt. Going against the flow of conventional opinion, she has made a place for herself in the Indian film industry. She has played pivotal roles in films like Ragini MMS 2, Ek Paheli-Leela, Mastizaade etc.
+
+We hope that the couple and their beautiful children are bestowed with happiness and health and we get to binge on more from the clan.
+
+Also Read: Sunny Leone And Husband Daniel Weber Go On A Lunch Date
+
+Also Read: TV Actress Hina Khan Reveals Her Marriage Plans
+
+Also Read: Family Goals - Saif, Kareena And Taimur Spend Time Together In Rajasthan
+
+For more such updates, click here.
+
+Plan your wedding with Bandbaajaa.com
+
+
+
+----------------------------------------------------------
+Bollywood actress Sunny Leone and husband Daniel Weber have now become parents of two baby boys. Sunny posted a happy family picture on her Instagram handle. Scroll down to see.
+
+With the concept of surrogacy smoothly penetrating into the Indian culture and making many married couples happy, another household got completed. For those of you who don’t know, Sunny Leone and husband Daniel Weber are now proud parents of not just their daughter Nisha Kaur Weber, but also two other adorable munchkins – Asher Singh Weber and Noah Singh Weber. The couple was blessed with the twins, conceived through the process of surrogacy.
+
+A lovable family picture of all the ‘Webers’ was posted this morning by Sunny. Not only the couple but Nisha Kaur Weber, who the couple adopted last year in July 2017, looked ecstatic posing with the twins.
+
+The couple divulged that they found out on June 21, 2017 that they might be having twins in a short span of time. Sunny Leone took to Instagram this morning to assert that the twins are biologically theirs. Here is the post by the actor –
+
+Sunny Leone, after being a huge sensation in the adult film industry of Canada, debuted in Bollywood with Mahesh Bhatt’s Jism 2, directed by Pooja Bhatt. Going against the flow of conventional opinion, she has made a place for herself in the Indian film industry. She has played pivotal roles in films like Ragini MMS 2, Ek Paheli-Leela, Mastizaade etc.
+
+We hope that the couple and their beautiful children are bestowed with happiness and health and we get to binge on more from the clan.
+
+Also Read: Sunny Leone And Husband Daniel Weber Go On A Lunch Date
+
+Also Read: TV Actress Hina Khan Reveals Her Marriage Plans
+
+Also Read: Family Goals - Saif, Kareena And Taimur Spend Time Together In Rajasthan
+
+For more such updates, click here.
+
+Plan your wedding with Bandbaajaa.com
+
+
+
+----------------------------------------------------------
+Who better to make your wedding sword that the giants supplying swords to some of the most iconic television series such as the Game of Thrones?
+
+In ancient India, the traditions of the weddings used to be quite different from what they are now. Considering that commute took a lot of time, it was not unusual for the baarat to stay at the bride’s house for a few days to complete the wedding rituals before heading back. This was also the time when dacoits were quite prevalent. Often, they would attack the baarat and steal their jewellery and other valuables. In an attempt to protect the newly wed bride and the valuables, the tradition of the groom to carry a sword came into being. Though, a lot of rituals have changed in due course of time, the practice of carrying the sword has been retained in many cultures, primarily because of its significance for the couple and their future i.e. the bride will forever be protected by her groom. Swords have always been an item associated with might, bravery and valour - characteristics a bride desires in her groom.
+
+To ensure that this tradition is fulfilled with the best possible swords and engravings, Indian Wedding Swords are here to keep the ritual alive. The Dehradun-based company is touching new heights every day. A major highlight for Indian Wedding Swords came in the form of video coverage by CNN International. Their process, journey and some of the best products was covered in the video, mainly, due to their contribution to several iconic shows and movies such as Game of Thrones, Pirates of the Caribbean, The Gladiator and others.
+
+The journey of Indian Wedding Swords started back in the year 1943 when Mr. Ved Prakash Windlass started a khukri making business during the reign of the British. The firm soon expanded into swords and it wasn’t long before they were the major suppliers of swords to various military organisations across the globe. Acquisition of the Spain-based company, Toledo Swordmaker, further strengthened the company’s product offerings.
+
+With 75 years of experience in the sword making business, these giants have crossed national borders. The company has done some amazing collaboration work for production of the International fame TV series Game of Thrones. The company also boasts of having supplied swords to many royal families across the world. Their clientele covers a whole lot of Punjabi grooms apart from famous TV production houses and military organisations.
+
+While you can get your wedding sword made from a number of vendors, the quality of Indian Wedding Swords remains unbeatable. Their exceptional designs, options for the blade and various high quality scabbards are sure to make your sword stand out on your wedding day. Their royal swords are heirlooms passed on through generations where the couple’s name and wedding date is engraved on the blade of the sword with each subsequent wedding. The swords are also coated with a thick layer of sparkling silver or 24k gold depending on the preference of each client.
+
+They mainly have three signature designs which are classified on the basis of their royal handle designs. The first design is the one passed on through generations depicting a lion head at the top of the handle and two lions at its base. Their second design shows a lion chasing and about to devour a galloping rabbit. The third design is a combination of different elements and has been inspired from the land of legacy. It has a round wheel at the bottom of the handle which depicts the wheel of time along with a serpent rising from one of the ends.
+
+With multiple recommendations and world-class designs and images to show for it, you will not go wrong with Indian Wedding Swords. While Indian weddings are a blend of multiple rituals, a sword in the groom’s hand is certainly a unique and meaningful tradition.
+
+Also Read: Gowma Leather Substiture For All Your Gifting Woes
+
+
+
+Also Read: In Pics: Actor Purab Kohli's Wedding Pictures Are Out
+
+
+
+Also Read: Quirky Wedding Gifting With OCC Signature Collection
+
+
+
+For more such updates, click here.
+
+Plan your wedding with Bandbaajaa.com
+
+
+
+----------------------------------------------------------
+Bride Special – Easy Diet Charts to Lose Up To 10 Kg Weight in 45 Days
+
+Provided by our weight-loss experts, these diet-charts also take care of your cravings to calm those wedding jitters!
+
+Any shape, any size, a happy bride as we say is the prettiest of all! Losing weight is completely a personal choice and definitely not a pre-wedding mandate. But if you are the bride who wants to get rid of extra flab to flaunt a toned body in a designer ensemble, we at Bandbaajaa.com have got your back!
+
+Even if the date you have saved falls in less than two months, these diet charts which are super easy to follow will do the needful. Provided by our weight-loss experts, cravings to calm your wedding jitters have also been taken care of!
+
+1. The Multi-Cuisine Diet by Dr. Surabhi's Nutriwell India
+
+2. The Mainstream Diet by Dietician Shreya's Family Diet Clinic
+
+3. The Less is More Diet by Nidsun Weight Loss
+
+The ingredients in these diet-charts are easy to find in your kitchen and can contribute in making you look visionary as a bride.
+
+Disclaimer - Since every body system functions differently, these diets may or may not work towards helping you lose weight.
+
+Also Read: 5 Ways To Eat More And Still Lose Weight Before Your Wedding
+
+Also Read: Bollywood Celebs Rock Manish Malhotra Outfits At Kapoor's Family Wedding
+
+Also Read: Watch Video - From Bajirao Mastani To Padmaavat, Get An Ethereal Look Like Deepika Padukone
+
+Also Read: Fabulous Hacks To Hide Your Belly Fat In Your Bridal Ouftfit
+
+For more such updates, click here.
+
+Plan your wedding with Bandbaajaa.com
+
+
+
+----------------------------------------------------------
+
+
+
+
+----------------------------------------------------------
+New Delhi: From cleaning water bodies to raising the level of sanitation in their surroundings, from highlighting food wastage as an area of concern to working towards spreading awareness about menstrual hygiene, young women in India are doing their bit to fulfill the dream of a Swachh Bharat. These young girls are not only challenging the societal norms by busting myths and taking on taboos, but are also undertaking cleanup drives and make a difference. This Women’s day let’s recognise these 5 of these agents of change and appreciate the work done by them.
+
+1. Mission Dal Lake: How A Little Girl Started A Cleanup Drive To Save Srinagar’s Jewel
+
+Call it Srinagar’s jewel or jewel in the crown of Kashmir, the fact is Dal Lake is losing its essence and beauty. From indiscriminate sewage disposal to encroachments to undesirable spread of weeds, numerous factors are responsible for the pitiable situation of Dal Lake. But 5-year-old Jannat along with her father is on a mission to restore the glory of Dal Lake.
+
+In the last week of January, a video of Jannat urging people to use dustbins and participate in the cleanliness drive went viral on social media. In the video message, little Jannat said, “Today, I and my father did a little bit of cleaning of the lake. We found a lot of garbage, but just me doing the cleaning of Dal Lake will not be enough. Dal Lake is one of the best things we have, we all should come forward and do our best to preserve its beauty.”
+
+Impressed by the little girl’s message, Prime Minister Narendra Modi shared her video on social media and added, “Hearing this little girl will make your morning even better! Great passion towards Swachhata.”
+
+Also Read: Little Girl’s Initiative To Clean Dal Lake Impresses Many Including Prime Minister Narendra Modi
+
+2. Meet The 13-Year-Old Swachh Crusader Who Is Fighting Against Open Defecation In Jharkhand
+
+At the age of 11 when kids spend their pocket money on candies, chocolates and junk food, Monidrita Chatterjee saved every penny to provide toilets to other girls. Back in 2014, when she was listening to Prime Minister Narendra Modi’s speech on Swachh Bharat Abhiyan, she realised that girls of her age drop out of schools because there are no toilets in schools. It is then that she decided to help them. In little over a year, she managed to save Rs. 24,000 and built two toilets in Kendradhi village. Monidrita didn’t stop there. Later, she decided to build toilets by recycling waste products like plastic bottles and fly ash. Today, the swachh crusader along with the help of her parents has built more than six toilets in different parts of Jamshedpur and her plan is to make her state free from the practice of open defecation.
+
+In addition to this, every week, the little girl visits villagers to raise awareness about hygiene and sanitation. Impressed by the efforts of Monidrita, the state government felicitated her efforts and she was awarded ‘Sanitation Champion’ certificate in 2016.
+
+Also Read: #IndiaAt70: Jharkhand’s Little Swachh Warrior Pledges To Make India Free From Open Defecation And Waste
+
+3. Meet The Pad Sisters From Jaipur Who Are On A Mission To Provide Sanitary Napkins To Underprivileged Girls
+
+Inspired by the reel and real life PadMan, 16-year-old Poorvi Mittal and 14-year-old Suhani Mittal with help from their mother initiated a PadBank in Jaipur city, which provides sanitary napkins to less fortunate girls, on January 10. In rural areas, girls often end up missing their school while they are menstruating, reason being, dependency on unhygienic alternatives like old cotton, cloth. In order to change this, Mittal sisters act as a bridge, they collect sanitary pads from women who can afford it and distribute it among less fortunate girls, every month for free. During the first collection that happened in the last week of January, around 150 people came forward to contribute and the team managed to accumulate around 2500 pads.
+
+Apart from this, the little warriors, also take awareness sessions in bastis, and schools.
+
+Also Read: Swachh Beti, Swasth Beti: Inspired By The Movie PadMan, Two School Girls Start A PadBank To Provide Sanitary Napkins To Underprivileged Girls
+
+4. To End Food Wastage, 18-Year-Old Dikshita Khullar Builds Magic Fridge That Can Keep Perishables Fresh For Seven Days
+
+Around 40% of the food produced in India gets wasted even before it reaches our plate. Why? Because farmers and vendors do not have proper storage facilities. Concerned about the humungous amount of food wasted in India, class 12 student, Dikshita Khullar, designed a cost effective fridge that doesn’t need electricity to run on. Taking lessons from her science class, Dikshita developed a fridge using bricks, sand, jute bags and bamboos. The prototype of magic fridge can hold up to six crates or 120kg of vegetables and is capable of keeping them fresh for seven days.
+
+Also Read: Green Fridge: A Class 12 Student Develops A Cost Effective Fridge That Runs Without Electricity To Put An End To Food Wastage
+
+5. No Toilet, No Home: Girls In Andhra Pradesh Refused To Come Home From Hostel On Makar Sankranti
+
+Practising the lessons learned in school that asked students not to defecate in open, around 100 girls from the Kasturba Gandhi School sent a letter to their parents stating that they won’t come to home for Makar Sankranti because there is no toilet at home. In the letter, they further urged their parents to take help from the government and construct an individual toilet before the festivities. Makar Sankranti is an important festival for the people of Andhra Pradesh and it is crucial for all family members to gather together and celebrate the auspicious festival. The idea behind this campaign is to educate the parents through their children and end the age old practice of open defecation.
+
+Also Read: ‘Will Not Come Home For Makar Sankranti, If There Is No Toilet At Home’, A Message From Schoolgirls In Andhra Pradesh To Their Parents
+
+
+
+----------------------------------------------------------
+New Delhi: From cleaning water bodies to raising the level of sanitation in their surroundings, from highlighting food wastage as an area of concern to working towards spreading awareness about menstrual hygiene, young women in India are doing their bit to fulfill the dream of a Swachh Bharat. These young girls are not only challenging the societal norms by busting myths and taking on taboos, but are also undertaking cleanup drives and make a difference. This Women’s day let’s recognise these 5 of these agents of change and appreciate the work done by them.
+
+1. Mission Dal Lake: How A Little Girl Started A Cleanup Drive To Save Srinagar’s Jewel
+
+Call it Srinagar’s jewel or jewel in the crown of Kashmir, the fact is Dal Lake is losing its essence and beauty. From indiscriminate sewage disposal to encroachments to undesirable spread of weeds, numerous factors are responsible for the pitiable situation of Dal Lake. But 5-year-old Jannat along with her father is on a mission to restore the glory of Dal Lake.
+
+In the last week of January, a video of Jannat urging people to use dustbins and participate in the cleanliness drive went viral on social media. In the video message, little Jannat said, “Today, I and my father did a little bit of cleaning of the lake. We found a lot of garbage, but just me doing the cleaning of Dal Lake will not be enough. Dal Lake is one of the best things we have, we all should come forward and do our best to preserve its beauty.”
+
+Impressed by the little girl’s message, Prime Minister Narendra Modi shared her video on social media and added, “Hearing this little girl will make your morning even better! Great passion towards Swachhata.”
+
+Also Read: Little Girl’s Initiative To Clean Dal Lake Impresses Many Including Prime Minister Narendra Modi
+
+2. Meet The 13-Year-Old Swachh Crusader Who Is Fighting Against Open Defecation In Jharkhand
+
+At the age of 11 when kids spend their pocket money on candies, chocolates and junk food, Monidrita Chatterjee saved every penny to provide toilets to other girls. Back in 2014, when she was listening to Prime Minister Narendra Modi’s speech on Swachh Bharat Abhiyan, she realised that girls of her age drop out of schools because there are no toilets in schools. It is then that she decided to help them. In little over a year, she managed to save Rs. 24,000 and built two toilets in Kendradhi village. Monidrita didn’t stop there. Later, she decided to build toilets by recycling waste products like plastic bottles and fly ash. Today, the swachh crusader along with the help of her parents has built more than six toilets in different parts of Jamshedpur and her plan is to make her state free from the practice of open defecation.
+
+In addition to this, every week, the little girl visits villagers to raise awareness about hygiene and sanitation. Impressed by the efforts of Monidrita, the state government felicitated her efforts and she was awarded ‘Sanitation Champion’ certificate in 2016.
+
+Also Read: #IndiaAt70: Jharkhand’s Little Swachh Warrior Pledges To Make India Free From Open Defecation And Waste
+
+3. Meet The Pad Sisters From Jaipur Who Are On A Mission To Provide Sanitary Napkins To Underprivileged Girls
+
+Inspired by the reel and real life PadMan, 16-year-old Poorvi Mittal and 14-year-old Suhani Mittal with help from their mother initiated a PadBank in Jaipur city, which provides sanitary napkins to less fortunate girls, on January 10. In rural areas, girls often end up missing their school while they are menstruating, reason being, dependency on unhygienic alternatives like old cotton, cloth. In order to change this, Mittal sisters act as a bridge, they collect sanitary pads from women who can afford it and distribute it among less fortunate girls, every month for free. During the first collection that happened in the last week of January, around 150 people came forward to contribute and the team managed to accumulate around 2500 pads.
+
+Apart from this, the little warriors, also take awareness sessions in bastis, and schools.
+
+Also Read: Swachh Beti, Swasth Beti: Inspired By The Movie PadMan, Two School Girls Start A PadBank To Provide Sanitary Napkins To Underprivileged Girls
+
+4. To End Food Wastage, 18-Year-Old Dikshita Khullar Builds Magic Fridge That Can Keep Perishables Fresh For Seven Days
+
+Around 40% of the food produced in India gets wasted even before it reaches our plate. Why? Because farmers and vendors do not have proper storage facilities. Concerned about the humungous amount of food wasted in India, class 12 student, Dikshita Khullar, designed a cost effective fridge that doesn’t need electricity to run on. Taking lessons from her science class, Dikshita developed a fridge using bricks, sand, jute bags and bamboos. The prototype of magic fridge can hold up to six crates or 120kg of vegetables and is capable of keeping them fresh for seven days.
+
+Also Read: Green Fridge: A Class 12 Student Develops A Cost Effective Fridge That Runs Without Electricity To Put An End To Food Wastage
+
+5. No Toilet, No Home: Girls In Andhra Pradesh Refused To Come Home From Hostel On Makar Sankranti
+
+Practising the lessons learned in school that asked students not to defecate in open, around 100 girls from the Kasturba Gandhi School sent a letter to their parents stating that they won’t come to home for Makar Sankranti because there is no toilet at home. In the letter, they further urged their parents to take help from the government and construct an individual toilet before the festivities. Makar Sankranti is an important festival for the people of Andhra Pradesh and it is crucial for all family members to gather together and celebrate the auspicious festival. The idea behind this campaign is to educate the parents through their children and end the age old practice of open defecation.
+
+Also Read: ‘Will Not Come Home For Makar Sankranti, If There Is No Toilet At Home’, A Message From Schoolgirls In Andhra Pradesh To Their Parents
+
+
+
+----------------------------------------------------------
+Highlights Mumbai’s daily waste generation has come by more than 2,000 metric tonnes
+
+Mumbai’s daily waste generation has come by more than 2,000 metric tonnes The BMC has shortlisted over 3,300 bulk generators of waste
+
+The BMC has shortlisted over 3,300 bulk generators of waste Many bulk generators of waste have asked for extensions for self-composting
+
+New Delhi: Ahead of Swachh Survekshan 2018, the Brihanmumbai Municipal Corporation (BMC) had some good new to share with Mumbaikars. Relentless promotion of composting wet waste seems to have finally paid off for the BMC, as Mumbai’s daily waste generation came down to 7,200 metric tonnes daily from 9,500 metric tonnes daily. The BMC has attributed the success to composting practiced by housing societies. As the amount of waste generated across the city has lessened, the BMC has decided to reduce the number of waste transportation vehicles by May 2018. 200 waste transportation vehicles are expected to stop plying post May 2018.
+
+As per the latest data from BMC, 120 such waste transportation vehicles have already been taken off Mumbai’s streets within the first three months of 2018. By the next two months, 80 more such vehicles will be taken off roads. In total, 2,238 waste transport vehicles used to transport waste from the city to landfills, but currently the number is 2,118. The BMC’s initiative to encourage people to compost waste at their homes comes after the Bombay High Court ruled in 2016 that post 2017, no waste is to be dumped in the landfills of Mulund and Deonar, the latter being India’s oldest and largest dumping ground. Following the court orders, BMC issued a series of guidelines, especially to bulk generators of waste such as housing societies. They were asked to compost their own waste and the municipal corporation declared that it will not collect garbage from such bulk generators.
+
+The strategy to ask bulk generators to compost their own waste seems to have paid off successfully. Big residential societies can now utilise their waste properly. More importantly, waste generated in these residential societies will be composted and used within their walls, thus absolutely negating the need for them to be carried outside, said a Solid Waste Management official from BMC.
+
+The BMC has shortlisted nearly 3,300 bulk generators of waste in Mumbai, of which 3,256 have been issued notices and asked to compost waste. Despite stringency on behalf of the BMC, till now only 835 have complied with the composting order. Around 1,200 have asked for extension and approximately 500 are facing prosecution for non-compliance. The BMC is hopeful that those who have asked for extension will definitely comply with the order.
+
+Many have asked for extensions, citing infrastructural problems to begin composting on such a large scale. We have decided to give them extensions of a few weeks to ensure that they comply with the order, said the BMC official.
+
+Mumbai ranked 29 in Swachh Survekshan 2017 and the BMC is hopeful that 2018 will see betterment in terms of rankings as composting has already been taken up by many across the city and is making a noticeable difference.
+
+Also Read: Supreme Court Reprimands Centre For Affidavit On Incomplete Information About Country’s Solid Waste Management Status
+
+
+
+----------------------------------------------------------
+Highlights SC approved the guidelines for protection of Good Samaritans in March 2016
+
+SC approved the guidelines for protection of Good Samaritans in March 2016 The guidelines now protect Good Samaritans who help road accident victims
+
+The guidelines now protect Good Samaritans who help road accident victims As per law, a good samaritan shall not be liable for any criminal liability
+
+New Delhi: In 2004, Rajeev Narayan was stepping out of the Jawaharlal Nehru University (JNU) campus for dinner when he saw a cyclist fall off his bike in the middle of a busy road. Without thinking twice, Rajeev rushed to help the cyclist. “I went to help the victim but the crowd gathered there and started saying maaro, maaro and demanding money from me, as if I have hit the cyclist. I was scared but that incident is what motivated me to realise that something needs to be done to ensure people come forward to help the accident victims.” In the last 14 years, Rajeev, who works with a globally recognised NGO has saved about 35 lives. It is now almost second nature to him. We met Dinesh Tiwari who was one of the people he saved. While speaking to NDTV, Mr Tiwari stated that he met with an accident in 2014 and Rajeev Ji saved his life by taking him to Rockland hospital on time. “I promised him that I too will help an accident victim, which I did last year and requested more people to step forward and help road accident victims,” urged Mr Tiwari.
+
+Also Read: Karnataka Teen Accident: Why We Need To Know About The Good Samaritan Law
+
+According to the government data, about 423 people lose their lives every single day in road accidents in India. These are astounding numbers and reflect a crisis, staring us in the face – we have the world’s most unsafe roads and the situation seems to be getting worse by the year.
+
+Good Samaritan laws offer legal protection to people who give reasonable assistance to those who are, or who they believe to be, injured, ill, in peril, or otherwise incapacitated.
+
+Now, people like Rajeev Narayan and Dinesh Tiwari will no longer have to worry about harassment at hospitals, police stations and courts after they help a road accident victim. In March 2016, the Supreme Court approved the guidelines issued by the Centre for the protection of Good Samaritans or first responders at the hands of the police or any other authority.
+
+Also Read: Why India Needs The Good Samaritan Law
+
+How is the first responder protected by law:
+
+A good Samaritan making a phone call to inform the police about an accidental injury or death does not need to reveal his/her personal details
+
+The option of becoming a witness in the matter shall solely rest with the Good Samaritan
+
+If a Good Samaritan chooses to be a witness, they will be questioned at a time and place of their convenience
+
+Lack of response by a doctor in an emergency situation pertaining to road accidents shall constitute ‘professional misconduct’
+
+The good samaritan shall not be liable for any civil or criminal liability
+
+While speaking to NDTV, Saji Cherian, Director, Operation, Save Life Foundation said, “Since a lot of things are entrenched in people’s mind, it is important for them to understand that now there is a system that they will not be harassed if they help a road crash victim.”
+
+In spite of this law being quite comprehensive, not many are aware about their rights and hesitate to be the Good Samaritan. Raising awareness about this is key to reducing road fatalities. A road accident can happen with anyone and everyone should be sensitised to help out, especially now that the biggest fear is taken care of. Remember stepping forward to call the police or medical services will not entangle them in any procedural hassles. The law is on the side of the Good Samaritan.
+
+Watch:
+
+
+
+----------------------------------------------------------
+Highlights SC approved the guidelines for protection of Good Samaritans in March 2016
+
+SC approved the guidelines for protection of Good Samaritans in March 2016 The guidelines now protect Good Samaritans who help road accident victims
+
+The guidelines now protect Good Samaritans who help road accident victims As per law, a good samaritan shall not be liable for any criminal liability
+
+New Delhi: In 2004, Rajeev Narayan was stepping out of the Jawaharlal Nehru University (JNU) campus for dinner when he saw a cyclist fall off his bike in the middle of a busy road. Without thinking twice, Rajeev rushed to help the cyclist. “I went to help the victim but the crowd gathered there and started saying maaro, maaro and demanding money from me, as if I have hit the cyclist. I was scared but that incident is what motivated me to realise that something needs to be done to ensure people come forward to help the accident victims.” In the last 14 years, Rajeev, who works with a globally recognised NGO has saved about 35 lives. It is now almost second nature to him. We met Dinesh Tiwari who was one of the people he saved. While speaking to NDTV, Mr Tiwari stated that he met with an accident in 2014 and Rajeev Ji saved his life by taking him to Rockland hospital on time. “I promised him that I too will help an accident victim, which I did last year and requested more people to step forward and help road accident victims,” urged Mr Tiwari.
+
+Also Read: Karnataka Teen Accident: Why We Need To Know About The Good Samaritan Law
+
+According to the government data, about 423 people lose their lives every single day in road accidents in India. These are astounding numbers and reflect a crisis, staring us in the face – we have the world’s most unsafe roads and the situation seems to be getting worse by the year.
+
+Good Samaritan laws offer legal protection to people who give reasonable assistance to those who are, or who they believe to be, injured, ill, in peril, or otherwise incapacitated.
+
+Now, people like Rajeev Narayan and Dinesh Tiwari will no longer have to worry about harassment at hospitals, police stations and courts after they help a road accident victim. In March 2016, the Supreme Court approved the guidelines issued by the Centre for the protection of Good Samaritans or first responders at the hands of the police or any other authority.
+
+Also Read: Why India Needs The Good Samaritan Law
+
+How is the first responder protected by law:
+
+A good Samaritan making a phone call to inform the police about an accidental injury or death does not need to reveal his/her personal details
+
+The option of becoming a witness in the matter shall solely rest with the Good Samaritan
+
+If a Good Samaritan chooses to be a witness, they will be questioned at a time and place of their convenience
+
+Lack of response by a doctor in an emergency situation pertaining to road accidents shall constitute ‘professional misconduct’
+
+The good samaritan shall not be liable for any civil or criminal liability
+
+While speaking to NDTV, Saji Cherian, Director, Operation, Save Life Foundation said, “Since a lot of things are entrenched in people’s mind, it is important for them to understand that now there is a system that they will not be harassed if they help a road crash victim.”
+
+In spite of this law being quite comprehensive, not many are aware about their rights and hesitate to be the Good Samaritan. Raising awareness about this is key to reducing road fatalities. A road accident can happen with anyone and everyone should be sensitised to help out, especially now that the biggest fear is taken care of. Remember stepping forward to call the police or medical services will not entangle them in any procedural hassles. The law is on the side of the Good Samaritan.
+
+Watch:
+
+
+
+----------------------------------------------------------
+Highlights This meeting was the first for the Delhi Road Safety Council in 2018
+
+This meeting was the first for the Delhi Road Safety Council in 2018 The national capital witnessed over 1,500 road accident deaths in 2016
+
+The national capital witnessed over 1,500 road accident deaths in 2016 The Road Safety Policy will look to prevent road accident deaths
+
+New Delhi: Delhi became the latest entrant among states to suggest a state level policy on road safety, exclusively for the national capital. A discussion on Delhi’s road safety and the proposed policy were held on February 26 at the second meeting of the Delhi Road Safety Council, headed by transport minister Kailash Gahlot. Along with the transport minister, other members of the Delhi Road Safety Council were present at the meeting, including academicians, road safety experts, bureaucrats and organisations working to spread awareness on road safety. The meeting was the first meeting of the council in 2018.
+
+1,591 people lost their lives in road accidents in Delhi in 2016 alone, as the national capital is considered to be one of the most unsafe cities in India in terms of road safety. Over 60 per cent of those who died in road accidents in 2016 were two-wheeler drivers, and their penchant for unsafe driving with disregard for traffic rules (like not wearing helmets) was the prime reason why such fatal accidents took place. Over 7,000 injuries were also reported in road accidents in Delhi in the year 2016. The Road Safety Council at the end of the meeting decided that a comprehensive policy was needed to reduce the number of road accidents on the streets of Delhi.
+
+Despite stringent measures, road accidents remain a problem in Delhi with high fatality rates. In this year’s first meeting, a number of officials and bureaucrats came together and admitted to the problem of high accident frequencies in the capital’s roads. An exclusive policy on road safety will enable officials to reduce the number of accidents on Delhi’s roads, said Anil Banka, Special Commissioner, Transport Department, Delhi.
+
+The Road Safety policy will be aimed at preventing and reducing the number of road accidents in Delhi, and subsequently the number of injuries and deaths. As per the proposed policy, significant funds will be spent on educating people about the necessity of following road safety measures and how they can avoid accidents while driving. The transport department will also ensure that traffic laws related to speeding, driving under the influence of alcohol and parking are enforced duly. Another provision in the proposed bill states that the government will arrange for special emergency services which can reach accident spots speedily and ensure that accident victims receive timely treatment.
+
+The discussion also saw transport experts recommending the strengthening of the Road Safety Cell so that scientific investigations can be carried out to identify primary causes of road accidents in Delhi and steps can be taken accordingly. The Council is scheduled to meet again within the next six months, and the transport department is hopeful that the Road Safety Policy will be finalised soon for safer roads in Delhi.
+
+Also Read: Turning A Blind Eye: Poor Vision Maybe Resulting In More Accidents On India’s Roads
+
+
+
+----------------------------------------------------------
+I couldn't sleep the night before we had to travel to Mumbai, said Sunita from the Jaipur zone of the Silai School. At first, I felt dizzy and scared of sitting in the plane but once we took off we, honestly, didn't even realise how fast we reached our destination.
+
+This journey of the Usha Silai School women is not just about embracing what is fashionable, theirs is a story of rise from the grassroot level to the big stage of the fashion world. A project designed to challenge and encourage these women from villages to achieve what they never thought is possible and create new opportunities for them to dream bigger. After all for most of these women even coming to a city like Mumbai, is nothing but a distant dream. Right from the moment they boarded the plane, a first for all of them, everything about this journey has been a life changing experience.
+
+Iradyu Mary from Puducherry also has a similar experience to share.
+
+I have never sat in a plane before. It's an experience I never thought I would have but thanks to Usha (Silai School) I am in Mumbai now, she said. On top of that, I can't believe that we are going for the Lakme Fashion Show, which is something out of the ordinary for us.
+
+That truth will take a while to settle in, these women were going to showcase their creations on the most glamourous runway of the country.
+
+I am in awe of the opportunity I have received. Today, I am in Mumbai and I feel if I have made it till here then perhaps I am capable of achieving more too, said Santosh another participant from Jaipur.
+
+Hardly any of the participants could contain their excitement, they had come this far and were rearing to go all out to show their work to the world. "Coming till Mumbai was great but now I am going to the show to see the clothes I have designed and that makes me happier than anything," said Raziya Ben selected from the Ahmedabad zone of the Silai school.
+
+If the women from Silai school were having the time of their lives, so were their mentors - the designers who worked with these women through the entire project.
+
+I think I have learned to be more optimistic, said Soham Dave, who mentored the Ahmedabad cluster of designers. Hats off to the enthusiasm of these designers without which we wouldn't have reached here.
+
+Sayantan Sarkar, mentor assigned to Kolkata's cluster, too, felt proud of his team of women. "This project has become very close to our heart," he said. "I was excited working with everyone in my cluster and now we bond very strongly with each other."
+
+As day two of the Lakme Fashion Week arrived, the women made their way to the Jio Garden in Mumbai. Eyes sparkling with enthusiasm and curiosity about all things new and nervousness about how the audience would react to their creations. The women assisted their models in getting ready for the show and then that moment arrived, when their creation made its way out on the ramp of one of the most prestigious fashion events in the country. They waited with bated breath when they would be required to walk on the ramp and face the audience, the culmination of all their efforts.
+
+It was humbling experience. So much of efforts and details have gone into every outfit that it's truly amazing to see them, said a model and attendee who was keen to buy the outfits once they are ready to go on sale.
+
+Then it was time, on cue the women from rural India walked out with their designer mentors on to the ramp and could hardly believe what they saw. The audience rose up to give them a rousing standing ovation, the moment was overwhelming for both the mentors and their team of Silai school women, who in response to the applause just bowed in gratitude.
+
+I thought the collection is beautiful. More than the clothes, I loved the smiles on faces of the artisans as they walked the runway with the designers together. It is a matter of great pride for the Lakme Fashion Week - designers sharing the stage with artisans making the clothes for them and with them, said Parmesh Sahani, Head, Godrej Culture Lab who attended the show.
+
+According to Jaspreet Chandok, Vice-President and Head (Fashion) IMG Reliance, organisers of the Fashion week, projects like Usha's new Silai label are vital for the survival of the textile industry. "The textile sector is the second largest employer of people across the country after agriculture, and a significant part of the employment actually rests in the rural sector right now. Unless you do activities where we have conversation at the top of the pyramid, it would really never percolate down to the larger section" he says.
+
+Mr Sahani of Godrej Culture Lab further adds that there is a need for more such collaboration to increase awareness and respect for India's craft and craftsmen.
+
+The design sensibility is what we pick from our rich textiles and these designs are very global he said. It's not very limited and caters to a larger audience.
+
+For the team of Silai label it was a defining moment of their lives, one that has the potential to change the course of their future. As summed up by Sreejith Jeevan, designer and mentor for the Puducherry cluster,
+
+It was amazing to be walking on the ramp with the people who made the clothes, the feeling is truly different, said Sreejith Jeevan post the fashion show. I would say this is the beginning because this is where the work actually starts, this is the beginning of a long journey.
+
+
+
+Also Read:Silai School Women From Jaipur And Ahmedabad Prepare For The Lakme Fashion Fashion Week
+
+
+
+----------------------------------------------------------
+I couldn't sleep the night before we had to travel to Mumbai, said Sunita from the Jaipur zone of the Silai School. At first, I felt dizzy and scared of sitting in the plane but once we took off we, honestly, didn't even realise how fast we reached our destination.
+
+This journey of the Usha Silai School women is not just about embracing what is fashionable, theirs is a story of rise from the grassroot level to the big stage of the fashion world. A project designed to challenge and encourage these women from villages to achieve what they never thought is possible and create new opportunities for them to dream bigger. After all for most of these women even coming to a city like Mumbai, is nothing but a distant dream. Right from the moment they boarded the plane, a first for all of them, everything about this journey has been a life changing experience.
+
+Iradyu Mary from Puducherry also has a similar experience to share.
+
+I have never sat in a plane before. It's an experience I never thought I would have but thanks to Usha (Silai School) I am in Mumbai now, she said. On top of that, I can't believe that we are going for the Lakme Fashion Show, which is something out of the ordinary for us.
+
+That truth will take a while to settle in, these women were going to showcase their creations on the most glamourous runway of the country.
+
+I am in awe of the opportunity I have received. Today, I am in Mumbai and I feel if I have made it till here then perhaps I am capable of achieving more too, said Santosh another participant from Jaipur.
+
+Hardly any of the participants could contain their excitement, they had come this far and were rearing to go all out to show their work to the world. "Coming till Mumbai was great but now I am going to the show to see the clothes I have designed and that makes me happier than anything," said Raziya Ben selected from the Ahmedabad zone of the Silai school.
+
+If the women from Silai school were having the time of their lives, so were their mentors - the designers who worked with these women through the entire project.
+
+I think I have learned to be more optimistic, said Soham Dave, who mentored the Ahmedabad cluster of designers. Hats off to the enthusiasm of these designers without which we wouldn't have reached here.
+
+Sayantan Sarkar, mentor assigned to Kolkata's cluster, too, felt proud of his team of women. "This project has become very close to our heart," he said. "I was excited working with everyone in my cluster and now we bond very strongly with each other."
+
+As day two of the Lakme Fashion Week arrived, the women made their way to the Jio Garden in Mumbai. Eyes sparkling with enthusiasm and curiosity about all things new and nervousness about how the audience would react to their creations. The women assisted their models in getting ready for the show and then that moment arrived, when their creation made its way out on the ramp of one of the most prestigious fashion events in the country. They waited with bated breath when they would be required to walk on the ramp and face the audience, the culmination of all their efforts.
+
+It was humbling experience. So much of efforts and details have gone into every outfit that it's truly amazing to see them, said a model and attendee who was keen to buy the outfits once they are ready to go on sale.
+
+Then it was time, on cue the women from rural India walked out with their designer mentors on to the ramp and could hardly believe what they saw. The audience rose up to give them a rousing standing ovation, the moment was overwhelming for both the mentors and their team of Silai school women, who in response to the applause just bowed in gratitude.
+
+I thought the collection is beautiful. More than the clothes, I loved the smiles on faces of the artisans as they walked the runway with the designers together. It is a matter of great pride for the Lakme Fashion Week - designers sharing the stage with artisans making the clothes for them and with them, said Parmesh Sahani, Head, Godrej Culture Lab who attended the show.
+
+According to Jaspreet Chandok, Vice-President and Head (Fashion) IMG Reliance, organisers of the Fashion week, projects like Usha's new Silai label are vital for the survival of the textile industry. "The textile sector is the second largest employer of people across the country after agriculture, and a significant part of the employment actually rests in the rural sector right now. Unless you do activities where we have conversation at the top of the pyramid, it would really never percolate down to the larger section" he says.
+
+Mr Sahani of Godrej Culture Lab further adds that there is a need for more such collaboration to increase awareness and respect for India's craft and craftsmen.
+
+The design sensibility is what we pick from our rich textiles and these designs are very global he said. It's not very limited and caters to a larger audience.
+
+For the team of Silai label it was a defining moment of their lives, one that has the potential to change the course of their future. As summed up by Sreejith Jeevan, designer and mentor for the Puducherry cluster,
+
+It was amazing to be walking on the ramp with the people who made the clothes, the feeling is truly different, said Sreejith Jeevan post the fashion show. I would say this is the beginning because this is where the work actually starts, this is the beginning of a long journey.
+
+
+
+Also Read:Silai School Women From Jaipur And Ahmedabad Prepare For The Lakme Fashion Fashion Week
+
+
+
+----------------------------------------------------------
+This year, we have fashion designers and experts with whom we are trying to identify the latent potential of the women who have already received training in sewing, said Dr. Priya Somaya, the Executive Director of USHA Social Services.
+
+What excited me the most was the opportunity to work at the grass root level and assisting in refining the raw skills of these women, said Soham Dave, designer and owner of a fashion brand.
+
+We were amazed to know that the USHA Silai School programme has been going on for so many years and has helped many women earn their livelihood from it, said Mr Vijaya.
+
+For us, it was really exciting to hear about the underground culture of training women in tailoring. So, we said 'yes' to the opportunity of working with them, he added.
+
+We divided our group in three sections. First of those who are skilled in stitching and can do intricate work, second of those who are fast in stitching and can do lengthy work and finally third is the hand embroidery group, said Sayantan Sarkar, designer and owner of the Sayantan Sarkar Design Studio in Kolkata.
+
+For the last three years, USHA Silai School programme has empowered given many underprivileged women in India and created opportunities that these women, given their circumstances, never imagined existed. It has given them a sense of equality, independence and the right to not just dream but actually have a fair chance to chase those dreams. Most of these women have led lives devoid of basics, for them poverty is life and hardships the only reality. Resigned to their fate, they never believed that life could be devoid of difficulties and filled with happiness and independence. So when a small step taken to enroll in to a silai school opened up avenues so far non-existent, these women not just grabbed it but they also made the most of it.Partnering up with various NGOs across the country, the initiative through its silai schools trains women across India to develop their stitching skills. Once trained the women use their skills to earn a livelihood and become financially independent. Most women part of this Kushalta ke Kadam initiative, are now entrepreneurs in their own right. They are not just earning a living by using their skill but are passing on their new learnings to other women in their community. So the success of the initiative is not just that few women learn stitching and use it to make money. The success lies in what these women do after they walk out of the silai school. Apart from setting up their own tailoring units, they set up schools of their own to train more women and create similar opportunities for others in their community.Call it empathy or just a desire to change the circumstances and not be held hostage, but these women have taken Kushalta ke Kadam and decided to be the beacon for others to follow. And because of that they have earned equality and respect not just within their homes but also in the world outside.In order to take the campaign to a new height, Kushalta Ke Kadam in collaboration with IMG Reliance decided to come up with a fashion brand that these silai school pass outs will produce in partnership with designers and experts.The aim is to provide a larger stage to these talented rural women. A stage where these women under expert guidance will step into the bigger world of business. The genesis of the idea was sown in July 2017. The country was first divided into four regions - Rajasthan, Bengal, Gujarat and Puducherry and an assessment process was carried out to select USHA Silai School women, from these locations, who matched a pre-decided criteria. In order to assist women to produce high-quality garments that echoed the ethos of the four regions, one fashion designer was assigned to each region.Assigned to Gujarat, Mr Dave took inspiration from the black sewing machine to conceptualise his clothing line. Working simply on human energy and not electricity, the black foot sewing machine stands as the most sustainable way to make garments in his opinion. Thus, his region would most likely highlight inspiration from the basic black color to minute details of the equipment.'Amrich' by Amit Vijaya and Richard Pandav , the label assigned to Rajasthan, took another approach to embrace the fashion culture of their region.Hesitant at first about the skill levels of these women, the duo were surprised to see the enthusiasm and desire to learnTheir final collection has drawn inspiration from the traditional poshak of Jaipur and deconstruct the look to present a collection of chic secedes.Being assigned to West Bengal, Mr Sarkar's final collection might be an amalgamation of Indian and western silhouettes. As his collection primarily uses a lot of fabric base like khadi, jamdani, and motif weave while incorporating floral motif prints, embroidery and texture to the attires, it would be a nice surprise to see what his group brings to the runway.Lastly a designer known for his personal zeitgeist, Sreejith Jeevan, was assigned to Puducherry region to help conceptualise a collection that will be true to the French influenced city."We are looking at all types of sewing techniques," he said. "This process is very exciting. All the women are from different villages and since they are already entrepreneurs they have a creative sense of their own which I think is vital to the complete process."Being generally inspired by the windows which are highly prevalent in the Puducherry architecture, his region's collection should most likely see the use of box pleats and pin tucks as a metaphor to the windowpanes and colorful patches to signify the colorful window panels.The women are being provided with the required resources to design and produce a fashion line and to be showcased at the major trend-setting event in Mumbai."For the last 6 seasons of Lakme Fashion Week, we have been dedicating one day to showcase a sustainable fashion," said Jaspreet Chandok, Vice President and Head of Fashion IMG Reliance.As the USHA Silai School women become the flag bearers of this design journey, the wait is now for the final show where these women will get the chance to showcase not just their skills and hardwork but tell their stories through the garments they design.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Santosh Nagwekar
+
+Kangana Ranaut and Rajkummar Rao along with the team of their upcoming film Mental Hai Kya? dined together at a suburban eatery in Mumbai on Monday night.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Santosh Nagwekar
+
+Kangana Ranaut and Rajkummar Rao along with the team of their upcoming film Mental Hai Kya? dined together at a suburban eatery in Mumbai on Monday night.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Santosh Nagwekar
+
+Kangana Ranaut and Rajkummar Rao along with the team of their upcoming film Mental Hai Kya? dined together at a suburban eatery in Mumbai on Monday night.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Varinder Chawla
+
+Mukesh Bhatt's daughter Sakshi Bhatt got engaged in a close-knit ceremony in Mumbai on Sunday. Emraan Hashmi and his wife Parveen joined in the festivities with their son Ayaan. Emraan and Ayaan were the cutest duo spotted at Sakshi's engagement party.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Varinder Chawla
+
+Mukesh Bhatt's daughter Sakshi Bhatt got engaged in a close-knit ceremony in Mumbai on Sunday. Emraan Hashmi and his wife Parveen joined in the festivities with their son Ayaan. Emraan and Ayaan were the cutest duo spotted at Sakshi's engagement party.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Varinder Chawla
+
+Mukesh Bhatt's daughter Sakshi Bhatt got engaged in a close-knit ceremony in Mumbai on Sunday. Emraan Hashmi and his wife Parveen joined in the festivities with their son Ayaan. Emraan and Ayaan were the cutest duo spotted at Sakshi's engagement party.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Varinder Chawla
+
+Aamir Khan, who did not attend Sridevi's funeral last week, was photographed at Boney Kapoor's home in Lokhandwala on Sunday evening. However, the filmmaker was away in Rameshwaram with his daughters Janhvi and Khushi to immerse Sridevi's ashes.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Varinder Chawla
+
+Aamir Khan, who did not attend Sridevi's funeral last week, was photographed at Boney Kapoor's home in Lokhandwala on Sunday evening. However, the filmmaker was away in Rameshwaram with his daughters Janhvi and Khushi to immerse Sridevi's ashes.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Varinder Chawla
+
+Aamir Khan, who did not attend Sridevi's funeral last week, was photographed at Boney Kapoor's home in Lokhandwala on Sunday evening. However, the filmmaker was away in Rameshwaram with his daughters Janhvi and Khushi to immerse Sridevi's ashes.
+
+
+
+----------------------------------------------------------
+01
+
+Source: AFP
+
+Gal Gadot stunned on the Oscars red carpet in an elegant silver Givenchy gown.
+
+
+
+----------------------------------------------------------
+01
+
+Source: AFP
+
+Gal Gadot stunned on the Oscars red carpet in an elegant silver Givenchy gown.
+
+
+
+----------------------------------------------------------
+01
+
+Source: AFP
+
+Gal Gadot stunned on the Oscars red carpet in an elegant silver Givenchy gown.
+
+
+
+----------------------------------------------------------
+06
+
+Source: AFP
+
+Margot Robbie stuns in an all-white gown on the red carpet. She has been nominated for Best Actress for I, Tonya.
+
+
+
+----------------------------------------------------------
+06
+
+Source: AFP
+
+Margot Robbie stuns in an all-white gown on the red carpet. She has been nominated for Best Actress for I, Tonya.
+
+
+
+----------------------------------------------------------
+06
+
+Source: AFP
+
+Margot Robbie stuns in an all-white gown on the red carpet. She has been nominated for Best Actress for I, Tonya.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Varinder Chawla
+
+Kareena Kapoor was spotted with her little bundle of joy Taimur Ali Khan outside her home in Mumbai on Friday. The mother and son duo apparently stayed away from Holi celebrations.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Varinder Chawla
+
+Kareena Kapoor was spotted with her little bundle of joy Taimur Ali Khan outside her home in Mumbai on Friday. The mother and son duo apparently stayed away from Holi celebrations.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Varinder Chawla
+
+Kareena Kapoor was spotted with her little bundle of joy Taimur Ali Khan outside her home in Mumbai on Friday. The mother and son duo apparently stayed away from Holi celebrations.
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Varinder Chawla
+
+Virat Kohli flew in to Mumbai, just in time for Anushka Sharma's new film Pari. On Thursday evening, he attended a special screening of the movie. Later, Virat reviewed Anushkaa's film as her "best film ever."
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Varinder Chawla
+
+Virat Kohli flew in to Mumbai, just in time for Anushka Sharma's new film Pari. On Thursday evening, he attended a special screening of the movie. Later, Virat reviewed Anushkaa's film as her "best film ever."
+
+
+
+----------------------------------------------------------
+01
+
+Source: Photo: Varinder Chawla
+
+Virat Kohli flew in to Mumbai, just in time for Anushka Sharma's new film Pari. On Thursday evening, he attended a special screening of the movie. Later, Virat reviewed Anushkaa's film as her "best film ever."
+
+
+
+----------------------------------------------------------
+Tata Motors has taken the wraps off its brand new EVision Concept car at the 2018 Geneva Auto show. The new sedan concept is an all-electric concept that is based on the Omega platform, one of the two new platforms that Tata Motors will use going forward. Incidentally, the Tata Motors H5X SUV concept, which was unveiled at the Indian Auto Expo last month is also based on the same Omega platform. Tata Motors also debuted the H5X SUV in Geneva alongside the sedan concept along with the new 45X concept premium hatchback. The latter also had its global debut last month at the Indian Auto Expo.
+
+(Tata Motors EVision Concept)
+
+The new EVision Sedan concept features the new Impact Design 2.0 which is quite upright, muscular and very aggressive. In terms of general size and dimensions, the EVision concept is a midsize sedan - about the same size as a Jaguar XE or Mercedes-Benz C-Class.
+
+The new all-electric sedan concept marks the continued direction towards e-mobility that Tata Motors has been stressing on in the recent past. The new Tata EVision Concept also marks Tata's 20th year participating at the Geneva Auto Show. Earlier notable concepts showcased by the Indian auto giant at Geneva include the Aria, Nano, Nano Pixel and Mega Pixel and of course the Tamo Racemo.
+
+Stay tuned to www.carandbike.com as we give you more in-depth information and technical specifications on the new Tata EVision concept.
+
+For the latest auto news and reviews, follow CarAndBike on Twitter, Facebook, and subscribe to our YouTube channel.
+
+
+
+----------------------------------------------------------
+While Jio is known for its ultra-low cost data plans and free calls, its bundled content apps such are quite popular among users as well. The Jio TV app, in particular, has been a hit across the country as it provides them access to live TV channels without any extra subscription costs. However, streaming live videos on the app can quickly exhaust the daily data allocation of the plan, especially if a user has purchased one of the more affordable plans in the operator’s portfolio. Now, Jio is providing customers additional 10GB data that is earmarked just to stream content on its live TV app.
+
+Jio users can check whether they have received the free 10GB data on their number in the MyJio app. They simply need to go to the My Plans section in the app, and the add-on data will appear below the plan details, if it has indeed been allocated. Along with the allocated data, the app will also show the expiry date and the amount consumed.
+
+The 10GB free data can only be consumed via the Jio TV app
+
+A customer care executive told Gadgets 360 that the free data is being given to users in “celebration" of Jio TV winning an award the recently-concluded Mobile World Congress (MWC) 2018 in Barcelona. The GSMA’s Global Mobile Awards (GLOMO) saw the app winning in the ‘Best Mobile Video Content’ category.
+
+Live TV Apps to Watch Cricket and TV Shows on the Go
+
+With the free data, Jio users will be able to watch live TV on the app without worrying about exhausting their daily data allocation. Interestingly, the last date to consume the free data is towards March-end, and the current Jio Prime subscription will expire on March 31. The company has not yet revealed whether it will change the terms of the Prime subscription starting April — the current subscription comes with free access to a host of bundled apps, including Jio TV.
+
+Jio TV app has 583 channels, including 39 HD channels, in several Indian languages. One of the big competitors of the Jio TV app in the country is Airtel TV, which offers live as well as on-demand content.
+
+Jio TV vs Airtel TV: Which Is the Best Live TV Streaming Option?
+
+The Mukesh Ambani-backed telecom operator started operations roughly a year and a half ago and has since brought down data prices across the industry as the incumbents started matching its tariffs by lowering data costs. Recently, Jio has been giving cashbacks on recharges, increased the daily data allocation on its popular plans, and made the Jio Phone available via third-party websites.
+
+
+
+----------------------------------------------------------
+Redmi Note 5 Pro went on sale two weeks ago, but the 6GB RAM variant of the model has not yet been available in the flash sales. That's about to change, as Gadgets 360 has learnt the Redmi Note 5 Pro 6GB RAM variant will finally be up for purchase in the March 7 sale, but only in Black colour option. Also, all colour variants of the Redmi Note 5 and Redmi Note 5 Pro - namely Black, Gold, Rose Gold, and Lake Blue - will be available in the March 7 flash sale. The sale is scheduled for 12pm IST and will be held simultaneously on Flipkart and Mi.com.
+
+Launched in India last month, the two mid-range smartphones saw their first sale on February 22 with a claimed 300,000 units sold in a matter of 3 minutes. This was followed by another sale on February 28. The third flash sale will be held on March 7, which will provide users with numerous options to choose from - in terms of RAM and colours, with the full selection of colour options set to be available in the country as mentioned earlier.
+
+Xiaomi Redmi Note 5, Redmi Note 5 Pro specifications
+
+Both smartphones sport 5.99-inch displays full-HD (1080x2160 pixels) display with an 18:9 aspect ratio. The Redmi Note 5 is powered by a Qualcomm Snapdragon 625 SoC, while the Redmi Note 5 Pro has a more powerful Snapdragon 636 SoC. The Redmi Note 5 Pro is available in 4GB/ 6GB RAM variants with 64GB storage, and the Redmi Note 5 is available in 3GB RAM/ 32Gb storage and 4GB RAM/ 64GB storage variants. In terms of software, both phones run MIUI 9 on top of Android Nougat out-of-the-box. The Redmi Note 5 Pro is expected to get an upgrade to Android Oreo in the near future.
+
+In terms of camera, the Xiaomi Redmi Note 5 Pro has a dual rear camera setup, with a 12-megapixel primary sensor sporting an aperture of f/2.2 and a 1.25-micron pixel size, while the 5-megapixel secondary sensor has a f/2.0 aperture and 1.12-micron pixel size. There is also an LED flash on the back. On the front, the smartphone has a 20-megapixel Sony IMX376 sensor that is accompanied by an LED selfie-light. The Redmi Note 5 has a 12-megapixel rear camera sensor with a f/2.2 aperture and 1.25-micron pixel size. On the front, the handset has a 5-megapixel camera sensor with an LED selfie flash module.
+
+
+
+----------------------------------------------------------
+The Xiaomi Mi TV 4 will go on sale once again in India on Tuesday via online and offline channels. This will be the third Mi TV 4 sale in India, and is scheduled for 12pm IST via Flipkart, Mi.com, and Mi Home retail stores. While the new Mi TV 4 was launched less than a month ago, Xiaomi has been teasing the launch of more TVs in India, which will be less expensive than the current model.
+
+Mi TV 4 price in India, launch offers
+
+The Mi TV 4 price in India is Rs. 39,999, which places it above the company's smartphones if we go by the pricing only. As for launch offers, buyers of the Xiaomi Mi LED TV 4 get free 3-month subscriptions (worth Rs. 619) to Sony Liv and Hungama Play, the Mi IR cable (worth Rs. 299), and on-site installation worth Rs. 1,099 for free. The 11-button Mi Remote that's bundled with the TV can be used to control a set-top box apart from the television itself, using the Mi IR cable priced at Rs. 299.
+
+Mi TV 4 specifications, features
+
+The Mi LED TV 4 model comes with a 55-inch LED display panel, though in China the Xiaomi had launched it in 49-inch and 65-inch variants as well. The TV supports 4K (3840x2160 pixels) resolution and HDR, and measures only 4.9mm in total thickness. Notably, the panel offers a viewing angle of 178-degrees and has a response time of 8ms.
+
+The TV is powered by a 64-bit quad-core Amlogic Cortex-A53 SoC clocked up to 1.8GHz, coupled with Mali-T830 graphics. It comes with 2GB of RAM and features 8GB of storage. It also features Dolby+DTS Cinema Audio, with two 8W duct inverted speakers, as well as Xiaomi's AI-powered PatchWall UI that has been redesigned for the Indian market. The PatchWall UI offers personalised recommendations and universal search.
+
+In terms of connectivity, the Xiaomi Mi TV 4 includes three HDMI 2.0 ports, two USB (one USB 3.0 and one USB 2.0) ports, an Ethernet port, an S/PDIF port, dual-band (2.4GHz and 5GHz) Wi-Fi 802.11ac, and Bluetooth 4.0.
+
+Xiaomi promises more than 500,000 hours of content, of which 80 percent will be free. The content will be available in 15 Indic languages. Content partners include Hotstar, Voot, Voot Kids, Sony Liv, Hungama Play, Zee5, Sun NXT, ALT Balaji, Viu, TVF, and Flickstree.
+
+Affiliate links may be automatically generated - see our ethics statement for details.
+
+
+
+----------------------------------------------------------
+Samsung Galaxy S9 and Galaxy S9+ were launched in India at an event in New Delhi on Tuesday. The two flagship Galaxy S9 series smartphones, first unveiled at MWC 2018, feature improved cameras with slow-mo features, the latest 10nm processors, AKG Acoustics-tuned dual speakers, and new software features like AR Emoji. On the design front though, the smartphones look very similar to last generation's Galaxy S8 and Galaxy S8+. Samsung at the launch event revealed the Galaxy S9 price in India, the same as Gadgets 360 exclusively reported last week.
+
+Samsung Galaxy S9, Galaxy S9+ price in India, launch offers
+
+The Samsung Galaxy S9 price in India (MOP) starts at Rs. 57,900 for the 64GB model, and goes up to Rs. 65,900 for the 256GB variant. The Galaxy S9+ price in India starts at Rs. 64,900 for the 64GB model, and goes up to Rs. 72,900 for the 256GB variant. Samsung hasn't launched the 128GB variants of the smartphones in India. The phones will be available from March 16, in Lilac Purple, Coral Blue, and Midnight Black. Pre-bookings are now open via retail outlets, the Samsung Shop, and Flipkart.
+
+Galaxy S9 and Galaxy S9+ launch offers include Rs. 6,000 cashback for HDFC debit and credit card users, as well as a Rs. 6,000 cashback in the Paytm Mall on purchases made online and offline. Samsung is also offering an additional Rs. 6,000 discount on exchange of an older Samsung smartphone.
+
+Samsung Galaxy S9 and Galaxy S9+ First Impressions
+
+Other Samsung Galaxy S9 and Galaxy S9+ launch offers include one from Airtel - you can buy the Galaxy S9 or Galaxy S9+ with a Rs. 9,900 down payment, and then pay Rs. 2,499 per month for 24 months, while getting 2TB of data in the period. Buyers can also avail a ‘Double Data’ offer on Airtel’s popular Infinity Postpaid plans. With Infinity 499, users get 80 GB of data, unlimited calling, and a one year Amazon Prime membership worth Rs. 999. With Infinity 799, users get 120GB of data, unlimited calling, a one year Amazon Prime membership and one free child connection. Both plans also offer free subscription to Airtel TV and Wynk Music.
+
+Galaxy S9 and S9+ users on Jio get an exclusive offer of 1 Terabyte of high speed 4G data with unlimited voice & SMS for one year worth Rs. 15,000 at only Rs. 4,999. Additionally, users are entitled to complimentary Jio Prime Membership as a part of this offer. Users who are new or existing customers of Vodafone will get free subscription to Netflix for a year on Vodafone Red plans starting Rs. 999 till April 30, 2018. Also, prepaid users who recharge with Rs. 199 get unlimited voice and 1.4GB per day and an additional 10GB free data every month for their next 10 recharges.
+
+Samsung Galaxy S9, Galaxy S9+ specifications, features
+
+Samsung Galaxy S9 and Galaxy S9+ offer the AR Emoji feature, which is the company's answer to Apple's Animoji with a few changes. AR Emoji are meant be virtual avatars, letting users turn themselves into a customised emoji. These emoji can be shared via the keyboard app to any app, and regardless of the recipients phone. Both smartphones also feature Bixby Vision in the camera app, offering live translation features, scene and building recognition, and a calorie counter.
+
+The Galaxy S9 duo also feature dual speakers tuned by AKG Acoustics, as well as Dolby Atmos surround sound. Both the smartphones also offer slow-mo 960fps video recording. In the meanwhile, the dual aperture setup on the Galaxy S9+ offers some additions features, as the primary rear camera sensor is capable of shooting at f/2.4 when there's ample light, but can switch to f/1.5 when the phone detects low-light conditions.
+
+The Samsung Galaxy S9 and Galaxy S9+ are powered by the Samsung Exynos 9810 SoC in India. You get the Android Oreo experience out-of-the-box and IP68 water + dust resistance as well. Connectivity options include Gigabit LTE, dual-band Wi-Fi 802.11ac, USB Type-C, Bluetooth 5.0, and, yes, the 3.5mm headphone jack. Both phones have an identical 8-megapixel autofocus front camera f/1.7 sensor and come with a microSD slot with support for cards up to 400GB capacity.
+
+The Samsung Galaxy S9 features a 5.8-inch QHD+ Curved Super AMOLED 18.5:9 display, 4GB of RAM, a 3000mAh battery, and a Super Speed Dual Pixel 12-megapixel autofocus f/1.5-f/2.4 sensor with OIS. It measures 147.7x68.7x8.5mm and weighs 163 grams.
+
+Meanwhile, the Samsung Galaxy S9+ packs a 6.2-inch QHD+ Curved Super AMOLED 18.5:9 display, 6GB of RAM, a 3500mAh battery, a dual rear camera setup with dual OIS, specifically a wide-angle lens with Super Speed Dual Pixel 12-megapixel autofocus f/1.5-f/2.4 sensor and a telephoto lens with 12-megapixel autofocus f/2.4 sensor. It measures 158.1x73.8x8.5mm and weighs 189 grams.
+
+
+
+----------------------------------------------------------
+
+
+
+
+----------------------------------------------------------
+"Long-term capital gain was being debated for years... We believe that no tax should have retrospective effect that's why we grandfathered all investment till 31 Jan 2018"- Finance Minister Arun Jaitley
+
+
+
+
+
+----------------------------------------------------------
+RT @Fact: When something bad happens you have three choices. You can either let it define you, let it destroy you, or you can let it streng… Fri Mar 02 19:11:09 , 2018
+
+
+
+----------------------------------------------------------
+Varun Dhawan's Sunday Cheat Meal Was Made By His Body Guard!
+
+Varun Dhawan is quite a foodie and his lean body is the result of his strict diet regime which includes low calorie, high protein meals. Varun has a good metabolism and eats every two hours to keep his energy levels up.
+
+
+
+----------------------------------------------------------
+Search for over 16 crore products across
+
+
+
+----------------------------------------------------------
+both cars are equally capable, the Jeep Compass a bit more than the XUV500. However, I would wait for the facelift... Read more
+
+The launch date has not been shared yet by the company. But we expect it to come in the first half of the year. stay... Read more
+
+The Hero Electric Cruz or the Optima Plus are good options but i would suggest you wait for TVS to bring out its... Read more
+
+Considering your requirements, your best bet would be the Royal Enfield. Both the KTM and the Benelli will have... Read more
+
+ABS certainly offers a far safer braking experience, particularly when you have to brake hard in case of an... Read more
+
+They have both advantages and disadvantages. From a practical point of view, the Dominar 400 is the better all-round... Read more
+
+Hope you watched CNB Bazaar Buzz last week! We took your question on the show! If not watch it on this site - under... Read more
+
+Hi Sid I have been watching CNB since close to 10 yrs now !i would like to buy the naked sports bike ,confused...
+
+Well there are not too many options but a practical choice would be the Dominar - as it delivers decent performance,... Read more
+
+Hi, I am planning to buy a Bike under 400cc witch one is good. Please suggest me a bike
+
+This IS the on road price we have on the oage: https://auto.ndtv.com/hero-bikes/splendor-plus SVP Read more
+
+CarAndBike is not merely another name in the world of automotive web sites. We bring together the best from the world of both, cars and bikes. New cars, used cars, new bikes, - we endeavour to help you with all of that. Additionally, CarAndBike also strives to keep its users updated with the latest from the global automotive industry. Car price, car reviews, car dealers, new bikes, and everything in between, CarAndBike is happy to help! More
+
+
+
+----------------------------------------------------------
+PNR
+
+Ever wondered how the 10-digit PNR number is generated? Or what do the digits indicate? The Indian Railways passenger name record, also known as PNR, is a number that gives a variety of travel information to ticket-holders. The PNR status includes information such as the booking status - whether the ticket has been confirmed, it is on waiting list (WL) or it is under reservation against cancellation (RAC) - apart from giving basic information on arrival and departure time of trains. The PNR status has details of the coach and seat number and the fare paid by the passenger, among other details. NDTV Rail Beeps search will help you find out the accurate PNR status of your train journey with the Indian Railways.
+
+How To Check PNR Status?
+
+Checking your PNR status is easy. All you need to do is to enter your PNR number on the search bar above. It will then show you the PNR status of your ticket. Although you will see the PNR number on the top-left corner of the train ticket, the PNR number on the e-ticket appears in a different place - it will be printed on the top half of the page.
+
+How PNR Works?
+
+The Centre of Railway Information Systems or CRIS runs a database where all information about passengers are fed and stored. The system creates a 10-digit PNR status number every time a person buys an Indian Railways ticket on the IRCTC website, private travel websites or at ticket counters. IRCTC refers to Indian Railway Catering and Tourism Corporation.
+
+In terms of group bookings, a single PNR number can include a maximum of six passengers.
+
+What does PNR number include:
+
+Passenger Details (Name, Age, Sex, Birth Preference)
+
+Ticket Details (Train No, Date, From, To, Boarding Station, Reservation Upto, Class, Berth, Quota)
+
+Transaction / Payment Details (Transaction ID, Payment Mode, Ticket Charge)
+
+The first 3 digits of the PNR tell us from which Passenger Reservation System or PRS the ticket has been booked.
+
+The PNR numbers' starting digit depends on Zone of the Train, w.r.t. starting station of the train.
+
+Number Code Zone
+
+1 SCR Secunderabad PRS
+
+2, 3 NR, NCR, NWR, NER New Delhi PRS
+
+4, 5 SR, SWR, SCR Chennai PRS
+
+6, 7 NFR, ECR, ER, ECoR, SER, SECR Calcutta PRS
+
+8, 9 CR, WCR, WR Mumbai PRS
+
+The last seven digits are randomly generated numbers using the Rand() function. These numbers represent no information about the ticket or journey as such. They only provide an unique identity to the PNR number.
+
+You can check PNR Status number at https://www.ndtv.com/indian-railway
+
+All you need to do is enter the PNR below to get the current status. You will find it on the top left corner of the ticket.) PNR status can also be checked at every major stations, where PNR stats checking counters are available.
+
+PNR number on ticket
+
+PNR number is usually printed at the top left corner of the tickets that are available at the railway station booking window. In case of the E - Ticket, the PNR number is mentioned at top in a separate cell.
+
+Importance of PNR status
+
+It is quite common to find your train ticket on waiting list while booking tickets on Indian Railways. To check whether your ticket is confirmed, you need to check your current PNR status. You can easily do this online at https://www.ndtv.com/indian-railway/.
+
+How to enquire PNR status
+
+Steps - open railbeeps.com >> Enter your PNR number >> Search
+
+You will get PNR status in 3 easy steps.
+
+Other ways to enquire PNR status are:
+
+1. Current reservation status check using SMS
+
+2. Mobile applications
+
+3. Railway enquiry counters at railway station
+
+4. Final reservation charts
+
+5. Other websites
+
+PNR status and railway reservations explained step by step :
+
+Waiting List and RAC
+
+Once all available seats on a train are sold, the Indian railway releases RACs for railway reservations. When all of the RAC seats are sold, Waiting List tickets are released. The status of the tickets might vary based on a variety of reasons. Ticket cancellations by other passengers can increase your chances if you have an RAC or Waiting List ticket. RAC/WL ticket holders are also likely to get available seats in different quotas if they remain unused.
+
+Tickets are sold by the Indian Railways in the following order:
+
+Available 02
+
+Available 01
+
+RAC 01
+
+RAC 02
+
+RAC 03
+
+RAC 04
+
+WL 01
+
+WL 02
+
+Understanding your ticket status
+
+There are two numbers mentioned on your ticket. The numbers detail the position at which you joined the waitlist and the current position of your ticket- in this order. Here is an example:
+
+When you book a train ticket online, you find the train number and class – AC, second class, third class etc mentioned on the e-ticket along with the seat/berth that you want along with the date and time. Let’s consider that you buy a ticket with WL5/WL2.
+
+This means that you joined the WL at position 5, but by the time you paid for the ticket and actually bought the ticket online you moved to position 2. The position may have varied from WL5 to WL2 either due to a cancellation or due to someone not making a final booking. While
+
+the first number (WL5 in this case) will stay the same, the second number will decrease until you get a ticket (hopefully).
+
+This is how the status of your reservation status could look like – in that order:
+
+WL 5/WL 2
+
+WL 5/WL 1
+
+WL 5/RAC 3
+
+WL 5/RAC 2
+
+WL 5/RAC 1
+
+WL 5/CNF
+
+PNR status and seat availability
+
+The following breakout explains how a ticket status plays a pivotal role in train journeys
+
+RAC - In RAC (Reservation Against Cancellation), the passenger is allowed to travel and two passengers share the same berth. If a confirmed passenger does not board the train, a full berth is allotted to the passenger with RAC ticket.
+
+CNF - The passenger seat has been confirmed and the seat will be allotted after charting
+
+CAN - The passenger seat has been cancelled
+
+WL - The passenger with Waitlist ticket is in the waiting list and is not allowed to board the train. A waitlist ticket can be cancelled by the passenger 30 minutes before the departure of the train. If a WL ticket does not get confirmed, it gets cancelled automatically.
+
+GNWL - A General Waitlist ticket which gets confirmed after the passengers cancel their confirmed bookings.
+
+TQWL - TQWL stands for Tatkal Waitlist. When a passenger does a tatkal booking and is put on the wait list, the status is shown as TQWL. This ticket is least likely to get confirmed.
+
+PQWL - Under Pooled Quota Waitlist, passengers traveling between intermediate stations and have a separate waitlist from the general waitlist.
+
+RLWL - A Remote Location Waitlist has the high chances of confirmation. Smaller stations have separate quota of seats and waiting seats on these intermediate stations are given RLWL status.
+
+RSWL - A station specific waitlist is called a Road-Side Waitlist.
+
+NR - NR means ‘No Room’ and no further bookings are allowed with a NR ticket
+
+NOSB - NOSB is acronym for No Seat Berth. Children below 12 years of age pay child fare and are not allotted seats. Their PNR status shows NOSB – No Seat Berth.
+
+REL - REL stands for Released
+
+WEBCAN - It’s a Railway Counter Ticket. When a passenger has been cancelled over internet and the refund has not been collected.
+
+WEBCANRF - It’s a Railway Counter Ticket. When a passenger has been cancelled over internet and the refund has been collected.
+
+WL and RAC refunds
+
+If your train is ready for departure and its reservation chart is finalized, the cost of your WL ticket will be automatically refunded to your bank account.
+
+Till when are PNR numbers valid?
+
+Normally, the digits of Passanger name record or PNR become meaningless after the completion of the journey. The PNR details may not be available to the public once the journey gets completed for privacy and security concerns of passengers.
+
+However, PNR number lasts minimum 9 month. This is because the TDR filed can take maximum of 9 months. Its is then removed from the database.
+
+Railway Enquiries through Web:
+
+Ticket Booking – www.irctc.co.in – Official Partner of Indian Railway for Online ticket booking.
+
+Railway Enquiry – www.indianrail.gov.in – Official Indian Railway portal
+
+PNR Status – www.ndtv.com/indian-railway/pnr-status
+
+Live Train Status - www.ndtv.com/indian-railway/live-train-status
+
+Railway Enquiries through SMS/Phone:
+
+SMS Service – How to check PNR status through SMS
+
+SMS PNR send to 139
+
+Railway Enquiry Number
+
+Call 139
+
+Mobile App:
+
+NDTV's Rail Beeps mobile app is your single stop for all information on trains. To Download click here
+
+
+
+----------------------------------------------------------
+FIND THE PERFECT LOOK
+
+Get Lost In Thousands Of Photos Of Decor, Outfits, Jewellery And More To Inspire You For Your Big Day
+
+
+
+----------------------------------------------------------
