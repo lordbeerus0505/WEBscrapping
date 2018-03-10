@@ -11,8 +11,24 @@
 '''
 #from string import maketrans
 import re
+# Program efficiency still pretty low
 
 from num2words import num2words
+def acronym(item):
+    # print("Acronyms testing....")
+    #for now the acronyms will check only for common words that are abbreviated
+    dict={
+        "ASAP":"As soon as possible", "ETA":"Estimated time of arrival","EST":"Eastern standard time",
+        "FBI":"federal bereau of investigation","PST":"Pacific standard time","DOB":"Date of birth",
+        "FYI":"For your information","JIT":"Just in time", "AKA":"also knows as","NBA":'National basketball association',
+    #More to be added
+    }
+    if dict.get(item)!=None:
+        return(dict.get(item))
+    else:
+        return ''
+
+
 def int_to_en(num):
     d = { 0 : 'zero', 1 : 'one', 2 : 'two', 3 : 'three', 4 : 'four', 5 : 'five',
           6 : 'six', 7 : 'seven', 8 : 'eight', 9 : 'nine', 10 : 'ten',
@@ -64,46 +80,83 @@ fh=open("Articles.txt",'r')#read and write permissions
 f=open("Cleaned.txt",'w')
 #print(fh.read())
 special=[]
-dict={'$':'Dollar','Mr':'Mister',"Mrs":"Missus",'Dr':'Doctor','Prof':'Professor'}
-for items in fh.read().split():# checks for special symbols
+dict={'$':'Dollar ','Mr':'Mister ',"Mrs":"Missus ",'Dr':'Doctor ','Prof':'Professor '}
+for items in fh.read().split():
     char =""
     if char in "":
         items=items.translate({ord(c):'' for c in "!@#%^&*()"})#removed all special characters
         items = items.translate({ord(c): ' ' for c in ":;\'\"<>"})  # removed all punctuations
         #replacing words TODO: Use better data structures
-        items=items.replace("Dr","Doctor")
-        items = items.replace("Mrs", "Missus")
-        items = items.replace("Mr", "Mister")
-        items = items.replace("Prof", "Professor")
+        items=items.replace("Dr","Doctor ")
+        items = items.replace("Mrs", "Missus ")
+        items = items.replace("Mr", "Mister ")
+        items = items.replace("Prof", "Professor ")
 
 
-        if  items.isnumeric():
+    if  items.isnumeric():
            # print(num2words(items)+"Number printed")
-            items=items.replace(items,num2words(items))
+        items=items.replace(items,num2words(items))
             #doesnt work completely
-        try:
-            val =int(items)
+    try:
+        val =int(items)
             #now its int
-            items=num2words(val)
-        except ValueError:
+        items=num2words(val)
+    except ValueError:
             #ignore
-            print(" ")
+        print(" ")
 
 
+    if items!='':
+        special.append(items)
+        print(items+" ",end='')
+        items='\n'
+            #testing for acronyms making the assumption that the maximum length of an acronym is 4, can be modified later
+
+    if len(items) <=4:
+        items=acronym(items)
         if items!='':
-            special.append(items)
-            print(items+" ",end='')
+            print(items,"acronym")
+
+
+
+
+
 #if '.' or '?' found add newline
 for s in special:
     for ch in s:
         if ch == '.' or ch == '?':
             f.write("\n")
-
+        elif ch==',':
+            f.write(" ")
         else:
             f.write(ch)
+
     f.write(" ")
     print(s)
 
+#Written onto cleaned.txt
+
+fh=open('Cleaned.txt','r+')
+f=open('Final.txt','w')
+print("Displaying all ")
+for items in fh.read().split():
+    print(items)
+    if items=='----------------------------------------------------------':
+        f.write('\n\n')
+        continue
+    for ch in items:
+        if ch=='.' or ch=='?':
+            f.write('\n')
+            break
+    if(items.isnumeric()):
+        x=items
+        items=items.replace(items,num2words(items))
+        print(x," ",items)
+    f.write(items+" ")
+
 f.close()
+fh.close()
+
+
 
 
